@@ -20,7 +20,7 @@ Web-based application built using HTML, CSS, and PHP. Also utilizes a MySQL serv
   * Hashes the password using Blowfish.
   
 * Login page
- * Allows user to login if username and password are in the database. 
+  * Allows user to login if username and password are in the database. 
 
 * User authentication 
   * Does not allow user to add content and view management page if not logged in.
