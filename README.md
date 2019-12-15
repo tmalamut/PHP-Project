@@ -14,10 +14,13 @@ Web-based application built using HTML, CSS, and PHP. Also utilizes a MySQL serv
   * Displays login if user is not logged in, otherwise displays logout.
 * Registration form
   * Allows user to register. User information is inserted into the MySQL database.
-* Login page
   * Checks if username is taken.
   * Checks if email is valid.
   * Checks if password and confirmation password are the same.
+  * Hashes the password using Blowfish.
+  
+* Login page
+ * Allows user to login if username and password are in the database. 
 
 * User authentication 
   * Does not allow user to add content and view management page if not logged in.
