@@ -25,6 +25,10 @@ Web-based application built using HTML, CSS, and PHP. Also utilizes a MySQL serv
 * User authentication 
   * Does not allow user to add content and view management page if not logged in.
   * Allows user to update and delete their own content. Update form is pre-populated with user's previous entries.
+  
+ * Logout page
+   * Confirms that user has logged out.
+   
 * Public page
   * Allows everyone to view all current entires posted by users. Updated when users update and/or delete their content.
 
