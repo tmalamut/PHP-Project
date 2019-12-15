@@ -1,6 +1,6 @@
 # PHP-Project
 
-Project completed in my Introduction to Server-Side Web Application Development class.
+Project completed for my Introduction to Server-Side Web Application Development class (Fall 2019). 
 
 ## Description
 
