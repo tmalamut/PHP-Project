@@ -1,0 +1,65 @@
+body {
+    background-color: #738C85;
+}
+
+
+header {
+    background-color:  #8C737A;
+    padding: 5px;
+    border-bottom: 3px solid #060608;
+}
+footer {
+    background-color: #8C737A;
+    padding: 5px;
+    border-top: 3px solid #060608;
+}
+
+nav a {
+    padding: 5px;
+}
+
+/**
+nav a:hover {
+    color: #e8cad1;
+    background-color: #738C85;
+}
+nav a:active {
+    color: #182866;
+    background-color: #ffffff;
+}
+
+nav a:link {
+    color: #182866;
+    background-color: #e8cad1;
+    text-decoration: none;
+}
+**/
+.title {
+    font-size: 25px;
+}
+
+.footer {
+    font-size: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: solid 1px rgba(25, 2, 102, 0.95);
+}
+th, td {
+    padding: 5px;
+}
+
+.welcome {
+    text-align: right;
+}
+
+.error {
+    color: #ff0911;
+}
+
+.success {
+    color: 	#006400;
+}
