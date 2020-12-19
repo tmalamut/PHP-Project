@@ -30,7 +30,7 @@ Web-based application built using HTML, CSS, and PHP. Also utilizes a MySQL serv
    * Confirms that user has logged out.
    
 * Public page
-  * Allows everyone to view all current entires posted by users. Updated when users update and/or delete their content.
+  * Allows everyone to view all current entries posted by users. Updated when users update and/or delete their content.
 
 ### Note
 
